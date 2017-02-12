@@ -1,0 +1,1 @@
+# dispositivo_fotoresistore_legge_malus
